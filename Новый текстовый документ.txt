@@ -1,0 +1,7 @@
+Client ID
+210005231632-lsr4ph2rajpaquhd0e5aaapruf32drcn.apps.googleusercontent.com
+Client Secret
+y-tg_GPZJ3DaOCHRQdfRys5F
+
+Client ID
+278584067307-v78vbbs0qvkdtnq0c4i4qqolnp0bfdf5.apps.googleusercontent.com

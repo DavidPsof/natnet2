@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gothic-booth-241106",
+  "private_key_id": "3dac1a83408c51c1741a3debb7bcae830451d72d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFbwFI+tkaYdHv\nnoAmtkVPcfJVP4z5UPttOfjY997uUmvuVxDxpscf4MtddaK37ADWoWpTzJKwKP90\nGNFrtvi1xbPaIwZSEaUvlli63q10Ocu8uEwiBd3Zzrk7VwcdZXdJVfGtJ342NE8N\ns6qBes8Uq07YJttcmMvvrkAeR67iJDjddxHY+bsZVXUcKpXXyIuM77uGnmT4r2r7\nsmkbRPZfPxyGHi7Dne0tjhU5z7HHvhtLNNLorl2h1WKOchgpMCoJoVa73RFqvPq3\nhYKRBNDVyGb2ONpZ7oMW9ye/kfCR47VKvWWZ8D6nJqW8WX1rIzVDFJPI8Z5Jf+y/\nkMZwH/xLAgMBAAECggEAEfzWX9XlTS269a5gQmanDO4DcQUS7OB8b78K4lWlXKg3\n7iVfkh/d33q/FhsMG3hBVH/gH8j98LyWsMPVr9vu1lZjV8BXwi1nLXbXGBUGnGK4\nCOmJNV/vqCyMT5EGJ577DbyEG5o2bQc6A2d3MhT3l4xkaNwT1OCU7MrYftaM4xk8\nyvaUsJXd4zR4TINLvbHoooTQhr7MBu7aP8vq4SDLTTVg/lX+9WZ2WEIBHez5GgSq\nRLOflzR0bggoBFkhS62ud7tzuH9vw+eBxIAXvbuFw7rC/17XE5zeVbAqAiB0SAWa\nUrryEk93C3X7gJOpOD1DgbkCyikmSv65ymmHOPBA3QKBgQD3AcYYQVh9xqSpWDiv\n1DfSlmo5A7TLIsphZxd3GrH3csSkufwP7ZLFJ9aymXZee8vd3Z3Yeb3jWG3Fxhjl\nx+NDVKewd8I60bXTg7feFz+Jca09sOymNb7NcawRHEWSkGB2b+xRSqZMNtF4wGp1\nQWCp6xUiowlWeyg1xf8cYstYJQKBgQDMny76FSAs3nNnVRarc69Akv2DjypBy6ce\nYZKygMQg+ps9wMw1Y2ip90Cs1RtHxbhbA1NND2H9sq8WK0RGwg1eHLSGVuckQ2vh\nMS1BX8x6RtSHRrPMsPRi3pl9NQsnksXEkP4FOnNCNc7GI2SOPZcUkZypovdzlnEh\npTDi3vVfrwKBgQC9Ckl+lLxR/m5VAKTZxJQ4gk+ndPOwJ981rn2h9PdRRy/CVmjY\nE92pMDU7mQGjjCFZmtvMKlgun6XboCG78kA3bpmsD+vBsm/zAjL9MVO6MBsDRN3I\n0wdFGoMy0S1Z309ENaJqELS3TZkBTlnrhW6ifL0/NgHWgwkiJnd5VQ8FVQKBgAxM\naQNo76UivabxS0qEynzEGO6mVTDdL684yBtod+FPjrMYem2fCvRkQwPgTyJyNNFr\nkr8n9IjOC432jcT+9tS4PvVwFbZtQvenAARU4LJcvXtf+YCNBjNHE8yduoznWnGl\nEU95IuJQ35uzFuEhvInk8piTjfHpkeUmy5hnNDJLAoGBAKOplaImmNi8RQS1BRlP\nMxHQe/WqotL68F4EFJpQrMKPIV7tf9ROLVj3/AaRDEjK8+HQUs1AN5HAld/jKc8b\nudi22U4xxk6XkU8YCAdy5nmktUGc7ziUNpU8SB5JkVM5NxKbIYip1NIa/n2PLd49\n97+iRC9JQQ/DVtrtENa+YyHx\n-----END PRIVATE KEY-----\n",
+  "client_email": "natnet2@gothic-booth-241106.iam.gserviceaccount.com",
+  "client_id": "112036381352857477566",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/natnet2%40gothic-booth-241106.iam.gserviceaccount.com"
+}
